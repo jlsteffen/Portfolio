@@ -2,6 +2,12 @@
 
 This page contains links to and a summary of the projects I have worked on for my acedemic career and for my personal interest. 
 
+## Projects
+
+<img align="left" width="250" height="150" src="https://github.com/jlsteffen/Portfolio/blob/main/images/1280px-Antennae_galaxies_xl.jpg"> **[Star Formation in Merging Galaxies](https://github.com/jlsteffen/Star-Formation-in-Mergers)**
+
+The goal of this project is to study how galaxy mergers influence star formation within the galaxies. I find that galaxy mergers induce increased star formation in the centers of the galaxies. I then study how various galaxy merger properties influence the enhanced star formation. I find that closely separated mergers and galaxy mergers with similar masses show the high enhancements to their star formation. I also find that in galaxy mergers where the two galaxies have substantially different masses, the less massive galaxy has suppressed star formation in their disks while the more massive galaxy has enhanced star formation in their disks.
+
 ## Degrees
 PhD in Physics at the University of Iowa
 -  _Thesis: Evidence for Merger-Induced AGN Fueling Using Integral Field Spectroscopy_
