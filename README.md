@@ -2,6 +2,17 @@
 
 This page contains links to and a summary of the projects I have worked on for my acedemic career and for my personal interest. 
 
+## Degrees
+PhD in Physics at the University of Iowa
+-  _Thesis: Evidence for Merger-Induced AGN Fueling Using Integral Field Spectroscopy_
+- Advisor: Dr. Hai Fu 
+M.S. in Astronomy at the University of Iowa
+- _Thesis: Spatially Resolved Star Formation in Interacting Galaxies_
+- Advisor: Dr. Hai Fu
+B.S. in Physics at Iowa State Univeristy
+- _Magna Cum Laude_
+- Minor in Astronomy 
+
 ## Publication list
 ### Journal Articles
 - [J. L. Steffen, H. Fu, J. R. Brownstein, et al., “SDSS-IV MaNGA: How Galaxy Interactions Influence
