@@ -1,12 +1,12 @@
 # Analytics Portfolio - Josh Steffen
 
-This page contains links to and a summary of the projects I have worked on for my acedemic career and for my personal interest. 
+This page contains links to and a summary of the projects I have worked on for my academic career and for my personal interest. 
 
-## Projects
+## Academic Projects
 
 <img align="left" width="150" height="150" src="https://github.com/jlsteffen/Portfolio/blob/main/images/10838-12702.png"> **[MaNGA Object Catalog (MaNGAObj) (2017-2022)](https://github.com/jlsteffen/MaNGAObj)**
 
-MaNGA (Mapping Nearby Galaxies at Apache Point Observatory) is an integral field spectrocopic survey which has observed ~10,000 nearby galaxies. While the survey's target objects are accounted for, there are many other astronomical objects that may fall within the survey's fields-of-view. The goal of this project is to identify and catalog all ancillary targets found within the MaNGA survey.
+MaNGA (Mapping Nearby Galaxies at Apache Point Observatory) is an integral field spectroscopic  survey which has observed ~10,000 nearby galaxies. While the survey's target objects are accounted for, there are many other astronomical objects that may fall within the survey's fields-of-view. The goal of this project is to identify and catalog all ancillary targets found within the MaNGA survey.
 
 #
 
@@ -18,7 +18,13 @@ The goal of this project is to study how galaxy mergers influence star formation
 
 <img align="left" width="150" height="150" src="https://github.com/jlsteffen/Portfolio/blob/main/images/agn.jpg"> **[Active Galactic Nuclei in Merging Galaxies (2021-2022)](https://github.com/jlsteffen/AGN-in-Mergers)**
 
-An active galactic nucleus (AGN) occurs when a galaxy's central supermassive black hole accretes large amounts of material and subsequently radiates a large amount of high energy photons. How the central supermassive black hole recieves this material has been a major question. One possible theory is that the black hole receives this material from gas-inflows induced by the merging of galaxies. In this project, I use my sample of merging galaxies within the MaNGA survey to see if the merging galaxies statistically host more AGN than isolated galaxies. 
+An active galactic nucleus (AGN) occurs when a galaxy's central supermassive black hole accretes large amounts of material and subsequently radiates a large amount of high energy photons. How the central supermassive black hole receives this material has been a major question. One possible theory is that the black hole receives this material from gas-inflows induced by the merging of galaxies. In this project, I use my sample of merging galaxies within the MaNGA survey to see if the merging galaxies statistically host more AGN than isolated galaxies. 
+
+## Personal Projects
+
+# 
+
+
 
 ## Degrees
 PhD in Physics at the University of Iowa
@@ -29,7 +35,7 @@ M.S. in Astronomy at the University of Iowa
 - _Thesis: Spatially Resolved Star Formation in Interacting Galaxies_
 - Advisor: Dr. Hai Fu
 
-B.S. in Physics at Iowa State Univeristy
+B.S. in Physics at Iowa State University
 - _Magna Cum Laude_
 - Minor in Astronomy 
 
