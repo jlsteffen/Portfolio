@@ -22,9 +22,9 @@ An active galactic nucleus (AGN) occurs when a galaxy's central supermassive bla
 
 ## Personal Projects
 
-# 
+<img align="left" width="150" height="150" src="https://github.com/jlsteffen/Portfolio/blob/main/images/tornado_thumb.png"> **[Changing Tornado Patterns (Tableau, 2023)](https://public.tableau.com/app/profile/joshua.steffen/viz/Book1_16814366920050/WeakerTornados)**
 
-
+I practice with the Tableau application while addressing questions regarding changing tornado pattern in the United States. Here I discover that the United States is observing more low magnitude tornadoes but fewer high magnitude tornadoes than previously observed in the past few decades. Also, the center of tornado valley has been shifting eastwards for the past three decades. 
 
 ## Degrees
 PhD in Physics at the University of Iowa
