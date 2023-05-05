@@ -42,7 +42,7 @@ M.S. in Astronomy at the University of Iowa
 - Advisor: Dr. Hai Fu
 
 B.S. in Physics at Iowa State University
-- _Magna Cum Laude_
+- _Magna cum Laude_
 - Minor in Astronomy 
 
 ## Publication list
