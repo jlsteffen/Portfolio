@@ -20,6 +20,12 @@ The goal of this project is to study how galaxy mergers influence star formation
 
 An active galactic nucleus (AGN) occurs when a galaxy's central supermassive black hole accretes large amounts of material and subsequently radiates a large amount of high energy photons. How the central supermassive black hole receives this material has been a major question. One possible theory is that the black hole receives this material from gas-inflows induced by the merging of galaxies. In this project, I use my sample of merging galaxies within the MaNGA survey to see if the merging galaxies statistically host more AGN than isolated galaxies. 
 
+#
+
+**[My Python Library](https://github.com/jlsteffen/python-functions)**
+
+A set of three python modules that I have written and used in my work. One module contains generic statistical and astronomical functions, another contains plotting utilities in Matplotlib, and the final one contains functions for calculated astronomical metallicity.
+
 ## Personal Projects
 
 <img align="left" width="150" height="150" src="https://github.com/jlsteffen/Portfolio/blob/main/images/tornado_thumb.png"> **[Changing Tornado Patterns (Tableau, 2023)](https://public.tableau.com/app/profile/joshua.steffen/viz/Book1_16814366920050/WeakerTornados)**
