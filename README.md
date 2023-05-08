@@ -10,13 +10,13 @@ MaNGA (Mapping Nearby Galaxies at Apache Point Observatory) is an integral field
 
 #
 
-<img align="left" width="150" height="150" src="https://github.com/jlsteffen/Portfolio/blob/main/images/1280px-Antennae_galaxies_xl.jpg"> **[Star Formation in Merging Galaxies (2018-2021)](https://github.com/jlsteffen/Star-Formation-in-Mergers)**
+<img align="left" width="150" height="150" src="https://github.com/jlsteffen/Portfolio/blob/main/images/1280px-Antennae_galaxies_xl.jpg"> **[Star Formation in Merging Galaxies (Python, 2018-2021)](https://github.com/jlsteffen/Star-Formation-in-Mergers)**
 
 The goal of this project is to study how galaxy mergers influence star formation within the galaxies. I find that galaxy mergers induce increased star formation in the centers of the galaxies. I then study how various galaxy merger properties influence the enhanced star formation. I find that closely separated mergers and galaxy mergers with similar masses show the high enhancements to their star formation. I also find that in galaxy mergers where the two galaxies have substantially different masses, the less massive galaxy has suppressed star formation in their disks while the more massive galaxy has enhanced star formation in their disks.
 
 #
 
-<img align="left" width="150" height="150" src="https://github.com/jlsteffen/Portfolio/blob/main/images/agn.jpg"> **[Active Galactic Nuclei in Merging Galaxies (2021-2022)](https://github.com/jlsteffen/AGN-in-Mergers)**
+<img align="left" width="150" height="150" src="https://github.com/jlsteffen/Portfolio/blob/main/images/agn.jpg"> **[Active Galactic Nuclei in Merging Galaxies (Python, 2021-2022)](https://github.com/jlsteffen/AGN-in-Mergers)**
 
 An active galactic nucleus (AGN) occurs when a galaxy's central supermassive black hole accretes large amounts of material and subsequently radiates a large amount of high energy photons. How the central supermassive black hole receives this material has been a major question. One possible theory is that the black hole receives this material from gas-inflows induced by the merging of galaxies. In this project, I use my sample of merging galaxies within the MaNGA survey to see if the merging galaxies statistically host more AGN than isolated galaxies. 
 
