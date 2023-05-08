@@ -4,7 +4,7 @@ This page contains links to and a summary of the projects I have worked on for m
 
 ## Academic Projects
 
-<img align="left" width="150" height="150" src="https://github.com/jlsteffen/Portfolio/blob/main/images/10838-12702.png"> **[MaNGA Object Catalog (MaNGAObj) (2017-2022)](https://github.com/jlsteffen/MaNGAObj)**
+<img align="left" width="150" height="150" src="https://github.com/jlsteffen/Portfolio/blob/main/images/10838-12702.png"> **[MaNGA Object Catalog (MaNGAObj) (Python, SQL, IDL, 2017-2022)](https://github.com/jlsteffen/MaNGAObj)**
 
 MaNGA (Mapping Nearby Galaxies at Apache Point Observatory) is an integral field spectroscopic  survey which has observed ~10,000 nearby galaxies. While the survey's target objects are accounted for, there are many other astronomical objects that may fall within the survey's fields-of-view. The goal of this project is to identify and catalog all ancillary targets found within the MaNGA survey.
 
